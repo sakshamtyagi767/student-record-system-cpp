@@ -107,4 +107,4 @@ StudentRecordSystem/
 
 ---
 
-*Built as a portfolio project demonstrating intermediate C++ skills for software engineering internship applications.*
+*Built as a portfolio project demonstrating intermediate C++ skills for software engineering *
