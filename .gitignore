@@ -1,0 +1,19 @@
+# Compiled output
+*.exe
+*.o
+*.obj
+
+# Build artifacts
+StudentRecordSystem
+tests/test_runner
+
+# Data files (optional: comment this out if you WANT to commit sample data)
+data/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.user
